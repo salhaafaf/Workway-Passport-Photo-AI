@@ -1,0 +1,6 @@
+{
+  "name": "Passport Photo AI",
+  "description": "An AI-powered Passport Photo generator with auto-crop, background removal, face enhancement, formal clothing overlay, A4 sheet generation, and downloadable Flutter mobile app source code.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
