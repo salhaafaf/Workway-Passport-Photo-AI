@@ -1,7 +1,8 @@
 workflows:
   android-release:
     name: Android Release
-    max_build_duration: 60
+    working_directory: Flutter_project
+
     environment:
       flutter: stable
 
